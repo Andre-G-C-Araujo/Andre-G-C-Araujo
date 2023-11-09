@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andre-G-C-Araujo
 - 👀 I’m interested in React.js but.
-- 🌱 I’m currently learning to build a api, To consume her
+- 🌱 I’m currently learning to build apis.
 - 💞️ I’m looking to collaborate on my skills of programming :)
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/andre-caue-b72a03287/
 
